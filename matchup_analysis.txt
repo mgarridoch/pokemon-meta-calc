@@ -1,0 +1,298 @@
+--- ANÁLISIS DE MATCHUPS DEL METAGAME ---
+Generado basado en el ranking de Meta Score.
+Matchup Score = (Puntos Ofensivos + Puntos Defensivos)
+==================================================
+
+# 21. KOFFING (Meta Score: 6)
+  [+] Mejores 5 Matchups:
+      vs Sewaddle        (Score: 2)
+      vs Snivy           (Score: 1)
+      vs Sunkern         (Score: 1)
+      vs Azurill         (Score: 1)
+      vs Venipede        (Score: 1)
+  [-] Peores 5 Matchups:
+      vs Tepig           (Score: 0)
+      vs Oshawott        (Score: 0)
+      vs Patrat          (Score: 0)
+      vs Purrloin        (Score: 0)
+      vs Pidove          (Score: 0)
+
+# 13. RIOLU (Meta Score: 4)
+  [+] Mejores 5 Matchups:
+      vs Patrat          (Score: 1)
+      vs Dunsparce       (Score: 1)
+      vs Lillipup        (Score: 1)
+      vs Purrloin        (Score: 1)
+      vs Magnemite       (Score: 1)
+  [-] Peores 5 Matchups:
+      vs Pidove          (Score: -1)
+      vs Azurill         (Score: -1)
+      vs Snivy           (Score: 0)
+      vs Tepig           (Score: 0)
+      vs Sunkern         (Score: 0)
+
+# 20. GROWLITHE (Meta Score: 4)
+  [+] Mejores 5 Matchups:
+      vs Sewaddle        (Score: 2)
+      vs Snivy           (Score: 1)
+      vs Sunkern         (Score: 1)
+      vs Magnemite       (Score: 1)
+      vs Venipede        (Score: 1)
+  [-] Peores 5 Matchups:
+      vs Oshawott        (Score: -1)
+      vs Psyduck         (Score: -1)
+      vs Patrat          (Score: 0)
+      vs Tepig           (Score: 0)
+      vs Pidove          (Score: 0)
+
+# 12. MAREEP (Meta Score: 4)
+  [+] Mejores 5 Matchups:
+      vs Oshawott        (Score: 1)
+      vs Magnemite       (Score: 1)
+      vs Psyduck         (Score: 1)
+      vs Pidove          (Score: 1)
+      vs Patrat          (Score: 0)
+  [-] Peores 5 Matchups:
+      vs Tepig           (Score: 0)
+      vs Snivy           (Score: 0)
+      vs Patrat          (Score: 0)
+      vs Purrloin        (Score: 0)
+      vs Sunkern         (Score: 0)
+
+# 1. TEPIG (Meta Score: 4)
+  [+] Mejores 5 Matchups:
+      vs Sewaddle        (Score: 2)
+      vs Snivy           (Score: 1)
+      vs Sunkern         (Score: 1)
+      vs Venipede        (Score: 1)
+      vs Magnemite       (Score: 1)
+  [-] Peores 5 Matchups:
+      vs Oshawott        (Score: -1)
+      vs Psyduck         (Score: -1)
+      vs Purrloin        (Score: 0)
+      vs Patrat          (Score: 0)
+      vs Lillipup        (Score: 0)
+
+# 19. MAGBY (Meta Score: 4)
+  [+] Mejores 5 Matchups:
+      vs Sewaddle        (Score: 2)
+      vs Snivy           (Score: 1)
+      vs Sunkern         (Score: 1)
+      vs Magnemite       (Score: 1)
+      vs Venipede        (Score: 1)
+  [-] Peores 5 Matchups:
+      vs Oshawott        (Score: -1)
+      vs Psyduck         (Score: -1)
+      vs Patrat          (Score: 0)
+      vs Tepig           (Score: 0)
+      vs Pidove          (Score: 0)
+
+# 18. ELEKID (Meta Score: 4)
+  [+] Mejores 5 Matchups:
+      vs Oshawott        (Score: 1)
+      vs Magnemite       (Score: 1)
+      vs Psyduck         (Score: 1)
+      vs Pidove          (Score: 1)
+      vs Patrat          (Score: 0)
+  [-] Peores 5 Matchups:
+      vs Tepig           (Score: 0)
+      vs Snivy           (Score: 0)
+      vs Patrat          (Score: 0)
+      vs Purrloin        (Score: 0)
+      vs Sunkern         (Score: 0)
+
+# 7. PIDOVE (Meta Score: 2)
+  [+] Mejores 5 Matchups:
+      vs Sewaddle        (Score: 2)
+      vs Snivy           (Score: 1)
+      vs Sunkern         (Score: 1)
+      vs Riolu           (Score: 1)
+      vs Venipede        (Score: 1)
+  [-] Peores 5 Matchups:
+      vs Magnemite       (Score: -2)
+      vs Mareep          (Score: -1)
+      vs Elekid          (Score: -1)
+      vs Tepig           (Score: 0)
+      vs Lillipup        (Score: 0)
+
+# 17. MAGNEMITE (Meta Score: 2)
+  [+] Mejores 5 Matchups:
+      vs Azurill         (Score: 2)
+      vs Pidove          (Score: 2)
+      vs Oshawott        (Score: 1)
+      vs Psyduck         (Score: 1)
+      vs Venipede        (Score: 1)
+  [-] Peores 5 Matchups:
+      vs Tepig           (Score: -1)
+      vs Mareep          (Score: -1)
+      vs Riolu           (Score: -1)
+      vs Elekid          (Score: -1)
+      vs Magby           (Score: -1)
+
+# 16. VENIPEDE (Meta Score: 0)
+  [+] Mejores 5 Matchups:
+      vs Sewaddle        (Score: 2)
+      vs Snivy           (Score: 1)
+      vs Purrloin        (Score: 1)
+      vs Sunkern         (Score: 1)
+      vs Azurill         (Score: 1)
+  [-] Peores 5 Matchups:
+      vs Tepig           (Score: -1)
+      vs Pidove          (Score: -1)
+      vs Magnemite       (Score: -1)
+      vs Magby           (Score: -1)
+      vs Growlithe       (Score: -1)
+
+# 9. LILLIPUP (Meta Score: -1)
+  [+] Mejores 5 Matchups:
+      vs Tepig           (Score: 0)
+      vs Oshawott        (Score: 0)
+      vs Snivy           (Score: 0)
+      vs Patrat          (Score: 0)
+      vs Purrloin        (Score: 0)
+  [-] Peores 5 Matchups:
+      vs Riolu           (Score: -1)
+      vs Tepig           (Score: 0)
+      vs Snivy           (Score: 0)
+      vs Oshawott        (Score: 0)
+      vs Purrloin        (Score: 0)
+
+# 14. AUDINO (Meta Score: -1)
+  [+] Mejores 5 Matchups:
+      vs Tepig           (Score: 0)
+      vs Oshawott        (Score: 0)
+      vs Snivy           (Score: 0)
+      vs Patrat          (Score: 0)
+      vs Purrloin        (Score: 0)
+  [-] Peores 5 Matchups:
+      vs Riolu           (Score: -1)
+      vs Tepig           (Score: 0)
+      vs Snivy           (Score: 0)
+      vs Oshawott        (Score: 0)
+      vs Purrloin        (Score: 0)
+
+# 4. PATRAT (Meta Score: -1)
+  [+] Mejores 5 Matchups:
+      vs Tepig           (Score: 0)
+      vs Oshawott        (Score: 0)
+      vs Snivy           (Score: 0)
+      vs Purrloin        (Score: 0)
+      vs Sewaddle        (Score: 0)
+  [-] Peores 5 Matchups:
+      vs Riolu           (Score: -1)
+      vs Tepig           (Score: 0)
+      vs Snivy           (Score: 0)
+      vs Oshawott        (Score: 0)
+      vs Sewaddle        (Score: 0)
+
+# 15. DUNSPARCE (Meta Score: -1)
+  [+] Mejores 5 Matchups:
+      vs Tepig           (Score: 0)
+      vs Oshawott        (Score: 0)
+      vs Snivy           (Score: 0)
+      vs Patrat          (Score: 0)
+      vs Purrloin        (Score: 0)
+  [-] Peores 5 Matchups:
+      vs Riolu           (Score: -1)
+      vs Tepig           (Score: 0)
+      vs Snivy           (Score: 0)
+      vs Oshawott        (Score: 0)
+      vs Purrloin        (Score: 0)
+
+# 11. AZURILL (Meta Score: -2)
+  [+] Mejores 5 Matchups:
+      vs Riolu           (Score: 1)
+      vs Purrloin        (Score: 1)
+      vs Tepig           (Score: 0)
+      vs Oshawott        (Score: 0)
+      vs Patrat          (Score: 0)
+  [-] Peores 5 Matchups:
+      vs Magnemite       (Score: -2)
+      vs Venipede        (Score: -1)
+      vs Koffing         (Score: -1)
+      vs Tepig           (Score: 0)
+      vs Sewaddle        (Score: 0)
+
+# 2. OSHAWOTT (Meta Score: -3)
+  [+] Mejores 5 Matchups:
+      vs Tepig           (Score: 1)
+      vs Magby           (Score: 1)
+      vs Growlithe       (Score: 1)
+      vs Patrat          (Score: 0)
+      vs Koffing         (Score: 0)
+  [-] Peores 5 Matchups:
+      vs Snivy           (Score: -1)
+      vs Sewaddle        (Score: -1)
+      vs Sunkern         (Score: -1)
+      vs Mareep          (Score: -1)
+      vs Magnemite       (Score: -1)
+
+# 10. PSYDUCK (Meta Score: -3)
+  [+] Mejores 5 Matchups:
+      vs Tepig           (Score: 1)
+      vs Magby           (Score: 1)
+      vs Growlithe       (Score: 1)
+      vs Oshawott        (Score: 0)
+      vs Koffing         (Score: 0)
+  [-] Peores 5 Matchups:
+      vs Snivy           (Score: -1)
+      vs Sewaddle        (Score: -1)
+      vs Sunkern         (Score: -1)
+      vs Mareep          (Score: -1)
+      vs Magnemite       (Score: -1)
+
+# 5. PURRLOIN (Meta Score: -4)
+  [+] Mejores 5 Matchups:
+      vs Tepig           (Score: 0)
+      vs Oshawott        (Score: 0)
+      vs Snivy           (Score: 0)
+      vs Patrat          (Score: 0)
+      vs Pidove          (Score: 0)
+  [-] Peores 5 Matchups:
+      vs Sewaddle        (Score: -1)
+      vs Venipede        (Score: -1)
+      vs Riolu           (Score: -1)
+      vs Azurill         (Score: -1)
+      vs Patrat          (Score: 0)
+
+# 3. SNIVY (Meta Score: -5)
+  [+] Mejores 5 Matchups:
+      vs Oshawott        (Score: 1)
+      vs Psyduck         (Score: 1)
+      vs Purrloin        (Score: 0)
+      vs Patrat          (Score: 0)
+      vs Magnemite       (Score: 0)
+  [-] Peores 5 Matchups:
+      vs Tepig           (Score: -1)
+      vs Sewaddle        (Score: -1)
+      vs Pidove          (Score: -1)
+      vs Venipede        (Score: -1)
+      vs Growlithe       (Score: -1)
+
+# 8. SUNKERN (Meta Score: -5)
+  [+] Mejores 5 Matchups:
+      vs Oshawott        (Score: 1)
+      vs Psyduck         (Score: 1)
+      vs Patrat          (Score: 0)
+      vs Snivy           (Score: 0)
+      vs Magnemite       (Score: 0)
+  [-] Peores 5 Matchups:
+      vs Tepig           (Score: -1)
+      vs Sewaddle        (Score: -1)
+      vs Pidove          (Score: -1)
+      vs Venipede        (Score: -1)
+      vs Growlithe       (Score: -1)
+
+# 6. SEWADDLE (Meta Score: -8)
+  [+] Mejores 5 Matchups:
+      vs Oshawott        (Score: 1)
+      vs Snivy           (Score: 1)
+      vs Sunkern         (Score: 1)
+      vs Purrloin        (Score: 1)
+      vs Psyduck         (Score: 1)
+  [-] Peores 5 Matchups:
+      vs Tepig           (Score: -2)
+      vs Pidove          (Score: -2)
+      vs Venipede        (Score: -2)
+      vs Magby           (Score: -2)
+      vs Growlithe       (Score: -2)
