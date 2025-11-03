@@ -1,0 +1,22 @@
+pokedex_number,name,bug,dark,dragon,electric,fairy,fighting,fire,flying,ghost,grass,ground,ice,normal,poison,psychic,rock,steel,water,type1,type2,hp,attack,defense,sp_attack,sp_defense,speed,base_total,abilities,generation,is_legendary
+498,Tepig,"0,5",1,1,1,"0,5",1,"0,5",1,1,"0,5",2,"0,5",1,1,1,2,"0,5",2,fire,,65,63,45,45,45,45,308,"['Blaze', 'Thick Fat']",5,0
+501,Oshawott,1,1,1,2,1,1,"0,5",1,1,2,1,"0,5",1,1,1,1,"0,5","0,5",water,,55,55,45,63,45,45,308,"['Torrent', 'Shell Armor']",5,0
+495,Snivy,2,1,1,"0,5",1,1,2,2,1,"0,5","0,5",2,1,2,1,1,1,"0,5",grass,,45,45,55,45,55,63,308,"['Overgrow', 'Contrary']",5,0
+504,Patrat,1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,normal,,45,55,39,35,39,42,255,"['Run Away', 'Keen Eye', 'Analytic']",5,0
+509,Purrloin,2,"0,5",1,1,2,2,1,1,"0,5",1,1,1,1,1,0,1,1,1,dark,,41,50,37,50,37,66,281,"['Limber', 'Unburden', 'Prankster']",5,0
+540,Sewaddle,2,1,1,"0,5",1,"0,5",4,4,1,"0,25","0,25",2,1,2,1,2,1,"0,5",bug,grass,45,53,70,40,60,42,310,"['Swarm', 'Chlorophyll', 'Overcoat']",5,0
+519,Pidove,"0,5",1,1,2,1,1,1,1,0,"0,5",0,2,1,1,1,2,1,1,normal,flying,50,55,50,36,30,43,264,"['Big Pecks', 'Super Luck', 'Rivalry']",5,0
+191,Sunkern,2,1,1,"0,5",1,1,2,2,1,"0,5","0,5",2,1,2,1,1,1,"0,5",grass,,30,30,30,30,30,30,180,"['Chlorophyll', 'Solar Power', 'Early Bird']",2,0
+506,Lillipup,1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,normal,,45,60,45,25,45,55,275,"['Vital Spirit', 'Pickup', 'Run Away']",5,0
+54,Psyduck,1,1,1,2,1,1,"0,5",1,1,2,1,"0,5",1,1,1,1,"0,5","0,5",water,,50,52,48,65,50,55,320,"['Damp', 'Cloud Nine', 'Swift Swim']",1,0
+298,Azurill,"0,5","0,5",0,1,1,1,1,1,0,1,1,1,1,2,1,1,2,1,normal,fairy,50,20,40,20,40,20,190,"['Thick Fat', 'Huge Power', 'Sap Sipper']",3,0
+179,Mareep,1,1,1,"0,5",1,1,1,"0,5",1,1,2,1,1,1,1,1,"0,5",1,electric,,55,40,40,65,45,35,280,"['Static', 'Plus']",2,0
+447,Riolu,"0,5","0,5",1,1,2,1,1,2,1,1,1,1,1,1,2,"0,5",1,1,fighting,,40,70,40,35,40,60,285,"['Steadfast', 'Inner Focus', 'Prankster']",4,0
+531,Audino,1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,normal,,103,60,126,80,126,50,545,"['Healer', 'Regenerator', 'Klutz']",5,0
+206,Dunsparce,1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,normal,,100,70,70,65,65,45,415,"['Serene Grace', 'Run Away', 'Rattled']",2,0
+543,Venipede,"0,5",1,1,1,"0,5","0,25",2,2,1,"0,25",1,1,1,"0,5",2,2,1,1,bug,poison,30,45,59,30,39,57,260,"['Poison Point', 'Swarm', 'Speed Boost']",5,0
+81,Magnemite,"0,5",1,"0,5","0,5","0,5",2,2,"0,25",1,"0,5",4,"0,5","0,5",0,"0,5","0,5","0,25",1,electric,steel,25,35,70,95,55,45,325,"['Magnet Pull', 'Sturdy', 'Analytic']",1,0
+239,Elekid,1,1,1,"0,5",1,1,1,"0,5",1,1,2,1,1,1,1,1,"0,5",1,electric,,45,63,37,65,55,95,360,"['Static', 'Vital Spirit']",2,0
+240,Magby,"0,5",1,1,1,"0,5",1,"0,5",1,1,"0,5",2,"0,5",1,1,1,2,"0,5",2,fire,,45,75,37,70,55,83,365,"['Flame Body', 'Vital Spirit']",2,0
+58,Growlithe,"0,5",1,1,1,"0,5",1,"0,5",1,1,"0,5",2,"0,5",1,1,1,2,"0,5",2,fire,,55,70,45,70,50,60,350,"['Intimidate', 'Flash Fire', 'Justified']",1,0
+109,Koffing,"0,5",1,1,1,"0,5","0,5",1,1,1,"0,5",2,1,1,"0,5",2,1,1,1,poison,,40,65,95,60,45,35,340,['Levitate'],1,0
