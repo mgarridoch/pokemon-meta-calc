@@ -65,6 +65,7 @@ def optimize_pokemon_team(matchups_csv_path, team_size=3):
     
     # Restricción 3: No podemos elegir a Snivy.
     m.addConstr(x['Snivy'] == 0, "No_Snivy")
+    m.addConstr(x['Purrloin'] == 1, "Yes_Purrloin")
 
     # Restricción X: Obligar a incluir a pokemon Apokemon en el equipo
     # m.addConstr(x['Apokemon'] == 1, "Must_Have_Apokemon")

@@ -43,6 +43,7 @@ def optimize_pokemon_team(matchups_csv_path, team_size=3, num_solutions_to_find=
     m.addConstr(gp.quicksum(x[i] for i in pokemon_list) == team_size, "TeamSize")
     m.addConstr(x['Oshawott'] == 0, "No_Oshawott")
     m.addConstr(x['Snivy'] == 0, "No_Snivy")
+    #    m.addConstr(x['Purrloin'] == 1, "Yes_Purrloin")
 
     for j in pokemon_list:
         z_list_for_j = []
